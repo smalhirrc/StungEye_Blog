@@ -13,8 +13,8 @@
   define('ADMIN_ADDRESS','blog_admin@mailinator.com');
 
   define('DB_HOSTNAME', 'localhost');
-  define('DB_USER',     'smalhi');
-  define('DB_PASSWORD', 'password');
+  define('DB_USER',     'serverside');
+  define('DB_PASSWORD', 'gorgonzola7!');
   define('DB_DATABASE', 'serverside');
 
   define('BLOG_NAME','Stung Eye');
